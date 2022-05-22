@@ -1,0 +1,66 @@
+{
+  "armadora": [
+    {
+      "marca": "INTERIFL",
+      "producto": "Filtro de aire",
+      "n_partes": "F-54A65",
+      "precio": 0.00
+    },
+    {
+      "marca": "INTERIFL",
+      "producto": "Filtro de cabina",
+      "n_partes": "CFI-8915",
+      "precio": 0.00
+    },
+    {
+      "marca": "INTERIFL",
+      "producto": "Filtro de aceite",
+      "n_partes": "OF-6607",
+      "precio": 0.00
+    },
+    {
+      "marca": "BOSCH",
+      "producto": "Filtro de aire",
+      "n_partes": "0986MF4217",
+      "precio": 0.00
+    },
+    {
+      "marca": "BOSCH",
+      "producto": "Filtro de aceite",
+      "n_partes": "0986MF0022",
+      "precio": 0.00
+    },
+    {
+      "marca": "BOSCH",
+      "producto": "Bujias",
+      "n_partes": "242129529 DOBLE IRIDIUM / 0242129522 IRIDIUM",
+      "precio": 0.00
+    },
+    {
+      "marca": "FULO",
+      "producto": "Banda de accesorios",
+      "n_partes": "7PK1125",
+      "precio": 0.00
+    }
+    {
+      "marca": "FRITEC",
+      "producto": "Balata delantera",
+      "n_partes": "BIO1Y21FT119",
+      "precio": 0.00
+    },
+    {
+      "marca": "FRITEC",
+      "producto": "Balata trasera",
+      "n_partes": "BIO1Y21FT119",
+      "precio": 0.00
+    }
+  ],
+  "modelo-auto": [
+    {
+      "A-marca": "Nissan",
+      "modelo": "Versa",
+      "año": 2020,
+      "motor": "1.6L"
+    }
+  ]
+}
